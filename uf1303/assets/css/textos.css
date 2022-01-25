@@ -3,6 +3,13 @@
 /* fuente texto sin serifa */
 @import url('https://fonts.googleapis.com/css2?family=Krub:wght@200&family=Marko+One&display=swap');
 
+
+
+/* Maquetación */
+body main section {
+    padding: 5vw;
+}
+
 /* Tamaño de los textos */
 html,
 body {
@@ -86,3 +93,10 @@ figcaption {
     font-style: italic;
 }
 
+p.nota {
+    padding: 0.8em;
+    background-color: aliceblue;
+    border-left-color: dodgerblue;
+    border-left-style: solid;
+    border-radius: 5px;
+}
