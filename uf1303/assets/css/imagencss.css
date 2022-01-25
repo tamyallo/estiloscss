@@ -17,7 +17,7 @@
 header.portada {
     width: 100%;
     height: 50vh;
-    background-image: url('https://cdn.pixabay.com/photo/2020/02/09/13/08/banner-4833105_960_720.jpg');
+    background-image: url('../img/banner-globos.jpg');
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -36,7 +36,7 @@ header.portada h2 {
     margin: 0;
     padding: 1em 0;
     text-align: center;
-    background-color: rgba(0,0,0, 0.6);
+    background-color: rgba(205,92,92, 0.6);
     color: #ffffff;
 }
 
