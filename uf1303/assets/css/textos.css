@@ -100,3 +100,12 @@ p.nota {
     border-left-style: solid;
     border-radius: 5px;
 }
+
+footer {
+    background-color: pink;
+}
+
+.pechado {
+   color:white;
+}
+
