@@ -42,16 +42,35 @@ header.portada h2 {
 }
 
 /*Imagen validadores */
-/* Reglas comunes a los tres */
+
 figure.w3c.css {
     background-image: url("../svg/w3c/css.svg");
 }
 
+figure.w3c.wcag {
+    background-image: url("../svg/w3c/wcag.svg");
+}
 
+figure.w3c.html5 {
+    background-image: url("../svg/w3c/html5.svg");
+}
+
+/* Reglas comunes a los tres */
 figure.w3c {
     width: 88px;
     height: 31px;
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+article.position {
+    position: relative;
+}
+
+figure.caja {
+    width: 500px;
+    height: 300px;
+    background: yellow;
+    background: url('https://www.marroiak.com/wp-content/uploads/lamina-acuarela-venecia-italia.jpg');
 }
